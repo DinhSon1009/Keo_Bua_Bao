@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Keo_Bua_Bao/static/css/main.2a2fb47a.chunk.css",
+    "main.js": "/Keo_Bua_Bao/static/js/main.f73b8dcf.chunk.js",
+    "main.js.map": "/Keo_Bua_Bao/static/js/main.f73b8dcf.chunk.js.map",
+    "runtime-main.js": "/Keo_Bua_Bao/static/js/runtime-main.055940bc.js",
+    "runtime-main.js.map": "/Keo_Bua_Bao/static/js/runtime-main.055940bc.js.map",
+    "static/js/2.a3854224.chunk.js": "/Keo_Bua_Bao/static/js/2.a3854224.chunk.js",
+    "static/js/2.a3854224.chunk.js.map": "/Keo_Bua_Bao/static/js/2.a3854224.chunk.js.map",
+    "index.html": "/Keo_Bua_Bao/index.html",
+    "static/css/main.2a2fb47a.chunk.css.map": "/Keo_Bua_Bao/static/css/main.2a2fb47a.chunk.css.map",
+    "static/js/2.a3854224.chunk.js.LICENSE.txt": "/Keo_Bua_Bao/static/js/2.a3854224.chunk.js.LICENSE.txt",
+    "static/media/bao.3b561257.png": "/Keo_Bua_Bao/static/media/bao.3b561257.png",
+    "static/media/bgGame.3f5b228c.png": "/Keo_Bua_Bao/static/media/bgGame.3f5b228c.png",
+    "static/media/bua.b4ebe6c4.png": "/Keo_Bua_Bao/static/media/bua.b4ebe6c4.png",
+    "static/media/keo.f5e2eab8.png": "/Keo_Bua_Bao/static/media/keo.f5e2eab8.png",
+    "static/media/player.ca6a1614.png": "/Keo_Bua_Bao/static/media/player.ca6a1614.png",
+    "static/media/playerComputer.5417b06d.png": "/Keo_Bua_Bao/static/media/playerComputer.5417b06d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.055940bc.js",
+    "static/js/2.a3854224.chunk.js",
+    "static/css/main.2a2fb47a.chunk.css",
+    "static/js/main.f73b8dcf.chunk.js"
+  ]
+}
